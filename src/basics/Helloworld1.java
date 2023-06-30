@@ -2,9 +2,9 @@ package basics;
 
 public class Helloworld1 {
 	
-	public static void main	(string[] args)
+	public static void main	(String[] args)
 	{
-		system.out.println("Hellow World")
+		System.out.println("Hellow World");
 		
 	}
 }
