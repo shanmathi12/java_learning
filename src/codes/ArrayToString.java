@@ -15,7 +15,7 @@ public class ArrayToString {
 		
 		//join method
 		String str2=String.join("", str);
-		System.out.println(str2);g
+		System.out.println(str2);
 
 	}
 
